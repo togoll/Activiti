@@ -19,6 +19,7 @@
     <module>activiti-services-events</module>
     <module>activiti-services-rest</module>
     <module>activiti-services-identity-keycloak</module>
+    <module>activiti-services-audit</module>
   </modules>
 
 </project>
